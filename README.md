@@ -7,3 +7,5 @@ of five rice varieties.
 classification accuracy. 
 • Average Accuracy of 99.86% was obtained and major reduction of features (from base-paper) was done, from 
 which the training time was reduced by 46.00% and space complexity was reduced by 54.00%
+
+Overfitting was checked for, and none was indentified.
